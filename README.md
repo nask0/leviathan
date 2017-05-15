@@ -74,6 +74,22 @@ Run installiation script. It will setup required tools (ncrack, masscan) and pyt
 
 It's done!
 
+### Fedora/RedHat:
+
+Download leviathan by cloning the Git repository:
+
+`git clone https://github.com/leviathan-framework/leviathan.git`
+
+Go inside the folder
+
+`cd leviathan`
+
+Run installiation script. It will setup required tools (ncrack, masscan) and python libraries.
+
+`bash scripts/fedora_install.sh`
+
+It's done!
+
 ### macOS:
 
 If homebrew is not installed on your system, please install it first:
